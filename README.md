@@ -72,7 +72,7 @@ This will run all configured linters (ESLint, etc.) on the project.
 
 This project is deployed on Vercel:
 
-**Live URL:** [https://www.url.com](https://www.url.com)
+**Live URL:** [https://age-estimator.vercel.app/](https://age-estimator.vercel.app/)
 
 ## Useful Links
 
